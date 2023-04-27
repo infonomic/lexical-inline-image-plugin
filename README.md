@@ -11,7 +11,7 @@ An example inline-image plugin for (Lexical)[https://lexical.dev/]
 
 ## Notes
 
-This is a complete copy of the [Lexical Playground](https://github.com/facebook/lexical/tree/main/packages/lexical-playground) project with quite a few nodes and plugins removed.
+This is a copy of the [Lexical Playground](https://github.com/facebook/lexical/tree/main/packages/lexical-playground) project with quite a few nodes and plugins removed.
 
 The [InlineImagePlugin](https://github.com/infonomic/lexical-inline-image-plugin/tree/main/src/plugins/InlineImagePlugin) was based initially on the Playground [ImagesPlugin](https://github.com/facebook/lexical/tree/main/packages/lexical-playground/src/plugins/ImagesPlugin) - and then adapted accordingly.
 
