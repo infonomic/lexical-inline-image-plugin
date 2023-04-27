@@ -1,7 +1,7 @@
 {
-  "name": "rich-text",
-  "private": true,
-  "version": "0.0.0",
+  "name": "lexical-inline-image-plugin",
+  "license": "MIT",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
