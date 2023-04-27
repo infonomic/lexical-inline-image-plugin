@@ -1,0 +1,63 @@
+#root {
+  max-width: 1480px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.ltr {
+  text-align: left;
+}
+
+.rtl {
+  text-align: right;
+}
+
+
+.app {
+  margin-top: 0;
+}
+
+/* .lexical-wrapper {
+  width: 700px;
+  border: 1px solid #444;
+  border-radius: 8px;
+  padding: 12px;
+  overflow: hidden;
+  overflow-x: auto;
+} */
+
+/* [data-lexical-editor] {
+  padding: 8px;
+  border: 1px solid #444;
+  border-radius: 8px;
+  margin-bottom: 0.5em
+} */
+
+/* .editor-placeholder {
+  margin: -0.5em 0 0.5em 0;
+  color: #999;
+  overflow: hidden;
+  /* position: absolute;
+  top: 15px;
+  left: 15px;
+user-select: none;
+pointer-events: none;
+}
+
+*/
+
+
+.editor-paragraph {
+  margin: 0 0 0.75em 0;
+  position: relative;
+}
+
+.editor-actions {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 0.5em;
+}
+
+.debug-treetype-button {
+  margin-right: 12px;
+}
