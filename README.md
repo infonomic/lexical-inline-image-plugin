@@ -1,6 +1,6 @@
 # lexical-inline-image-plugin
 
-An example inline-image plugin for (Lexical)[https://lexical.dev/]
+An example inline-image plugin for [Lexical](https://lexical.dev/)
 
 ![screenshot of Lexical editor inline image plugin](https://github.com/infonomic/lexical-inline-image-plugin/blob/main/screenshot.png?raw=true)
 
